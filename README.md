@@ -1,2 +1,2 @@
-# books-react-
-react编写的图书检索项目（练习）
+# books-react
+react编写的图书检索项目
