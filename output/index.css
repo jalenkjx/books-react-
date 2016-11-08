@@ -1,0 +1,32 @@
+*{
+	margin:0;
+	padding:0;
+	border:0;
+}
+li{
+	list-style: none;
+
+}
+.catalist{
+	float : left;
+	width: 200px;
+	margin-left:50px;
+}
+.content{
+	margin-left: 200px;
+}
+.catalist li{
+	margin:10px 0;
+}
+.catalist a{
+	display:block;
+	width:80px;
+	line-height:25px;
+	height:25px;
+	text-decoration: none;
+	background:#eee;
+	border-radius:5px;
+	text-align: center;
+	background:#c09876;
+	color:#fda;
+}
